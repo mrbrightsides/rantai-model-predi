@@ -77,7 +77,7 @@ def embed_iframe(src, hide_top_px=72, height=800):
     """, height=height)
 
 # URL Ohara
-iframe_url = "https://ohara.ai/mini-apps/1f6f7f53-cdf6-43b3-80eb-ca5444d410eb"
+iframe_url = "https://ohara.ai/mini-apps/miniapp_cmfpesgpp0kgh9pnxdclk2yuo"
 
 # Panggil fungsi
 embed_iframe(iframe_url, hide_top_px=110, height=800)
