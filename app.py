@@ -18,10 +18,12 @@ with st.sidebar:
     
     ---
     #### 🔮 Vision Statement
+    
     Menjadi platform prediksi terpercaya yang memberdayakan bisnis untuk mengambil keputusan strategis berbasis data dan inovasi AI, guna mencapai keunggulan kompetitif yang berkelanjutan.
 
     ---
     ### 🌐 RANTAI Pipeline
+    
     Keempat modul—EDA, BI, Predictive Modeling, dan ETHIKA—bekerja bersama sebagai bagian dari siklus analitik data yang saling terintegrasi, memastikan alur data dan insight yang mulus dari awal hingga akhir dengan keseimbangan etika dan fairness sebagai pijakan utama.
     
     - Exploratory Data Analysis (EDA) merupakan langkah awal yang mempersiapkan dan memvalidasi data mentah. Dengan analisis statistik dan visualisasi eksploratif, EDA mengidentifikasi pola, anomali, dan kualitas data yang akan menjadi dasar untuk tahap selanjutnya.
@@ -36,6 +38,7 @@ with st.sidebar:
     
     ---
     ### 🧩 STC Ecosystem
+    
     1. [STC Analytics](https://stc-analytics.streamlit.app/)
     2. [STC GasVision](https://stc-gasvision.streamlit.app/)
     3. [STC Converter](https://stc-converter.streamlit.app/)
@@ -47,6 +50,7 @@ with st.sidebar:
 
     ---
     ### ☂ RANTAI Communities
+    
     1. [Learn3](https://learn3.streamlit.app/)
     2. [BlockPedia](https://blockpedia.streamlit.app/)
     3. [SmartFaith](https://smartfaith.streamlit.app/)
@@ -58,6 +62,7 @@ with st.sidebar:
     
     ---
     #### 🙌 Dukungan & kontributor
+    
     - ⭐ **Star / Fork**: [GitHub repo](https://github.com/mrbrightsides/rantai-model-predi)
     - Built with 💙 by [Khudri](https://s.id/khudri)
     - Dukung pengembangan proyek ini melalui: 
