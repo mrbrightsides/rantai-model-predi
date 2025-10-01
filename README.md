@@ -27,7 +27,7 @@ Modul PM bertugas membuat model prediktif menggunakan algoritma machine learning
 - Export hasil prediksi dalam format JSON atau langsung tampil di BI dashboard
 
 ```mermaid
-graph RL
+graph LR
     A["Modul Predictive Modeling (PM)"] --> B["Input Data Terstruktur"]
     A --> C["Model Prediktif"]
     A --> D["Pipeline Training & Validasi"]
